@@ -1,6 +1,4 @@
-👋 Hi!
-
-I’m @LLR-Laura
+👋 Hi! I’m @LLR-Laura
 
 - 👀 I’m interested in data
 - 🌱 I’m currently learning Data Science
